@@ -28,10 +28,10 @@ Basit ve şık bir hava durumu uygulaması. OpenWeatherMap API'si kullanarak ger
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadiniz/hava-durumu-uygulamasi.git
+   git clone https://github.com/yfiliz/weather-app-js
 2. Proje dizinine gidin:
    ```bash
-   cd hava-durumu-uygulamasi
+   cd weather-app-js
    ```
 3. ```index.html``` dosyasını tarayıcınızda açın:
    ```bash
